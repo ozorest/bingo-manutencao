@@ -1,0 +1,61 @@
+body {
+    font-family: 'Balsamiq Sans', cursive !important;
+}
+
+.jumbotron {
+    padding: 1em 2em !important;
+    background-color: lightgoldenrodyellow !important;
+}
+
+table.table-bordered {
+    border:1px solid black;
+    margin-top:20px;
+}
+
+table.table-bordered > thead > tr > th {
+    border:1px solid black;
+}
+
+table.table-bordered > tbody > tr > td {
+    border:1px solid black;
+}
+
+.btn-social,
+.btn-social:visited,
+.btn-social:focus,
+.btn-social:hover,
+.btn-social:active {
+    color: #ffffff;
+    text-decoration: none;
+    transition: opacity .15s ease-in-out;
+}
+
+.btn-social:hover,
+.btn-social:active {
+    opacity: .75;
+}
+
+.btn-fb {
+    background-color: #3b5998 !important;
+    color: white !important;
+}
+
+.btn-tw {
+    background-color: #1da1f2 !important;
+    color: white !important;
+}
+
+.btn-wa {
+    background-color: #25d366 !important;
+    color: white !important;
+}
+
+.btn-te {
+    background-color: #54a9eb !important;
+    color: white !important;
+}
+
+.btn-ma {
+    background-color: burlywood !important;
+    color: white !important;
+}
